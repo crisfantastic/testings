@@ -1,0 +1,4 @@
+echo "Test Guild" >> README.md
+git add README.md
+git commit -m "Test commit for Guild task"
+git push origin main
